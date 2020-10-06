@@ -11,6 +11,7 @@ const firebaseConfig = {
   measurementId: "G-GVB2EX82JR"
 };
 
+
 const firebaseApp = firebase.initializeApp(firebaseConfig);
 
 const db = firebaseApp.firestore();
