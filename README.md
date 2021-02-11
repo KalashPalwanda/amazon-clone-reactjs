@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Live Demo: https://hirwab--clone.web.app/
+Live App Demo: https://hirwab--clone.web.app/
 
 ## Available Scripts
 
